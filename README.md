@@ -1,0 +1,1 @@
+Due to the large size of the project, I moved it over to a zip file and reset this repo so that it can either git cloned or just downloaded as a zip.
